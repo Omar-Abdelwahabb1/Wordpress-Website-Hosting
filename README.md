@@ -1,4 +1,4 @@
-🚀 Project1: Deploy a Scalable WordPress Website on AWS using Terraform
+🚀 Project: Deploy a Scalable WordPress Website on AWS using Terraform
 📌 Project Overview
 This project demonstrates how to deploy a highly available and scalable WordPress website on AWS using Terraform. The architecture leverages key AWS services to ensure performance, availability, and security.
 
