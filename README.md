@@ -26,5 +26,4 @@ Application Load Balancer (ALB) to distribute incoming HTTP traffic.
 
 User-data scripts to automatically install and configure WordPress with a pre-selected theme/template.
 
-🌐 WordPress Theme
-A pre-built WordPress theme/template was used instead of a blank installation, ensuring a more complete and visually appealing deployment.
+🌐 WordPress website
